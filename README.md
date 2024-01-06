@@ -6,7 +6,6 @@
 ### The Study Plan
 
 
-- [Choose a Programming Language](#choose-a-programming-language)
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
 - [Interview Prep Books](#interview-prep-books)
 - [Don't Make My Mistakes](#dont-make-my-mistakes)
@@ -121,14 +120,6 @@
 - [Papers](#papers)
 
 ---
-
-
-## Choose a Programming Language
-
-You'll need to choose a programming language for the coding interviews you do,
-but you'll also need to find a language that you can use to study computer science concepts.
-
-Preferably the language would be the same, so that you only need to be proficient in one.
 
 ### For this Study Plan
 
