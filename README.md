@@ -5,7 +5,7 @@
 
 ### The Study Plan
 
-- [A Note About Video Resources](#a-note-about-video-resources)
+
 - [Choose a Programming Language](#choose-a-programming-language)
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
 - [Interview Prep Books](#interview-prep-books)
@@ -122,15 +122,6 @@
 
 ---
 
-
-## A Note About Video Resources
-
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
-It would be great to replace the online course resources with free and always-available public sources,
-such as YouTube videos (preferably university lectures), so that you people can study these anytime,
-not just when a specific online course is in session.
 
 ## Choose a Programming Language
 
