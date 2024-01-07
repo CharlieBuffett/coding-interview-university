@@ -959,8 +959,9 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Final Review
 
-    This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
-    It's nice if you want a refresher often.
+    This section will have shorter videos that 
+    you can watch pretty quickly to review most of the important concepts.
+    refresh it often, pls.
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
