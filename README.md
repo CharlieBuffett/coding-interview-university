@@ -8,7 +8,7 @@
 
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
 - [Interview Prep Books](#interview-prep-books)
-- [effictive learning](#effictive learning)
+- [effiective learning](#effiective-learning)
 - [The Daily Plan](#the-daily-plan)
 - [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
@@ -230,7 +230,7 @@ Choose one:
 - [Elements of Programming Interviews (Java version)](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
         - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
-## effictive learning
+## effiective learning
 
 ### 1. Use computer flash card for cs knowledge; use paper to rewrite data structure and algorithms and code to memorize.
 
