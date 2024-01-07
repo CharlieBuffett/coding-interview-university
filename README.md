@@ -304,8 +304,6 @@ without lyrics and you'll be able to focus pretty well.
 
 ## The Daily Plan
 
-This course goes over a lot of subjects. Each will probably take you a few days, or maybe even a week or more. It depends on your schedule.
-
 Each day, take the next subject in the list, watch some videos about that subject, and then write an implementation
 of that data structure or algorithm in the language you chose for this course.
 
@@ -388,7 +386,7 @@ But don't forget to do coding problems from above while you learn!
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
 - [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU) finished:)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
